@@ -5,7 +5,7 @@
 
 ## 📚 Documentation Index
 
-**Start here:** [START_HERE.md](START_HERE.md) ⭐  
+**Start here:** [START_HERE.md](START_HERE.md)  
 **Quick setup:** [QUICKSTART.md](QUICKSTART.md)  
 **Full guide:** [PROJECT_GUIDE.md](PROJECT_GUIDE.md)  
 **Technical:** [ARCHITECTURE.md](ARCHITECTURE.md)  

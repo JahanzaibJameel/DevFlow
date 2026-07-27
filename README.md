@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/devflow/blob/main/LICENSE">
+  <a href="https://github.com/JahanzaibJameel/DevFlow/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/yourusername/devflow?style=for-the-badge&color=3B82F6" alt="License">
   </a>
   <a href="#">

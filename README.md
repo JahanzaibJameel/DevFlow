@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x400/0F172A/FFFFFF?text=DevFlow+Dashboard+Preview" alt="DevFlow Dashboard" width="100%" />
-</p>
 
 <h1 align="center">🚀 DevFlow</h1>
 
